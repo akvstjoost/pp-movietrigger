@@ -7,7 +7,7 @@ put the movietrigger folder in the ```/home/pi/pp_profiles/``` folder
 
 edit movie location in file ```mediashow.json``` (or use the ppwebeditor)
 
-start with: ```python /home/pi/pipresents.py -f -p movietrigger```
-(or shorter, in the image you can use the pp alias: ```pp -f -p movietrigger```)
+start it with: ```pp -f -p movietrigger```
+(```pp``` is an alias for ```python /home/poi/pypresents.py```)
 
 end with: ctrl-break
