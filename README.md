@@ -16,5 +16,7 @@ to make it auto-startup:
 
 in terminal, type:
 ```sudo nano /etc/xdg/lxsession/LXDE-pi/autostart```
+
+
 at the bottom, add this line:
 ```@python /home/pi/pipresents/pipresents.py -f -p movietrigger```
